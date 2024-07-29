@@ -3,6 +3,11 @@
 
 안드로이드 및 메인 코드는 이쪽입니다. [https://github.com/j0gea/Warning-App-of-sidewalk-damage](https://github.com/j0gea/Warning-App-of-sidewalk-damage)
 
+## 2024 07 29 up
+- wandb 추가
+- 파손 데이터만 따로 옮기는 코드 추가
+- 텐서플로루 라이트 변환 코드 추
+
 ## 2024 07 23 up
 [https://colab.research.google.com/drive/1J_ygo7RvOVmFl0snr8exQfpeqdqDLtIh?usp=sharing](https://colab.research.google.com/drive/1J_ygo7RvOVmFl0snr8exQfpeqdqDLtIh?usp=sharing)
 - JSON -> YOLOv5 형식 txt 변환 코드
